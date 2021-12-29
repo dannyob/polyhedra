@@ -1,0 +1,7 @@
+Contents:
+  README: readme file.
+  READMEj: readme file (in Japanese, EUC).
+  dname.tex: list of names of polyhedron.
+  dnamej.tex: list of names of polyhedron (in Japanese, EUC).
+  data/: data of polyhedron.
+  hardcopy/: hardcopy of exterior of polyhedron(PBM format).
